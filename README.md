@@ -24,6 +24,9 @@
 
 ## 🚀 Featured Projects
 
+### 🧠 [langchain_rag](https://github.com/aleksa898989/langchain_rag)
+`Python` — Retrieval-Augmented Generation document Q&A built with LangChain (LCEL). Chunks and embeds your docs into a FAISS vector store, then wires retriever → prompt → chat model → parser for answers grounded in your data.
+
 ### 🎬 [hls-transcoder](https://github.com/aleksa898989/hls-transcoder)
 `TypeScript` — HLS video transcoding pipeline for adaptive-bitrate streaming. Real-time media processing with segmented output for smooth playback across devices and network conditions.
 
