@@ -3,7 +3,7 @@
 **Senior Full Stack Engineer & Team Lead** — 6+ years building scalable SaaS, e-commerce, AI-powered, and real-time systems. I lead engineering teams while staying hands-on with architecture, development, and delivery.
 
 📍 Remote / Belgrade, Serbia · 📧 aleksa.zdravkovic1996@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/aleksa-zdravkovi%C4%87-742069185/) · [GitHub](https://github.com/aleksa898989)
+🔗 [LinkedIn](https://www.linkedin.com/in/aleksa-zdravkovi%C4%87-742069185/)
 
 ---
 
