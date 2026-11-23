@@ -4,7 +4,7 @@
 
 Some of the stuff I've worked on:
 
-- A marketing platform for influencer campaigns and B2B marketing deals, built from the ground up
+- A B2B SaaS campaign manager, built from the ground up. Brands use it to run campaigns with athletes and influencers. It has 4 subscription plans on Stripe, account balances, team collaboration, and edit locking so teammates don't overwrite each other's changes
 - Live streaming with Agora.io and Ant Media, plus other real-time features
 - E-commerce, including checkout and payments with Stripe and Authorize.net
 - 3D product configurators with Three.js
