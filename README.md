@@ -1,6 +1,6 @@
 # Aleksa Zdravkovic
 
-**Senior Full Stack Engineer & Team Lead.** 7+ years of experience, high ownership, super fast, I use vim btw...
+**Team Lead & Lead Full Stack Engineer.** 7+ years of experience, high ownership, super fast, I use vim btw...
 
 Some of the stuff I've worked on:
 
